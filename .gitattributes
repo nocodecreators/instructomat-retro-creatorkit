@@ -1,0 +1,15 @@
+# Auto-detect text files and normalize line endings to LF (Unix standard)
+* text=auto
+
+# Explicitly define line endings for text-based files
+*.md   text eol=lf
+*.txt  text eol=lf
+
+# Treat binary files properly (no diff, no CR/LF normalization)
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.zip  binary
+*.docx binary
+
