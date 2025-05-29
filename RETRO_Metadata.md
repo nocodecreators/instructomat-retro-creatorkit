@@ -4,7 +4,7 @@
 Instructomat RETRO
 
 ## 📝 Beschreibung
-Instructomat RETRO ist dein dialogischer Reflexionspartner nach dem Lernen mit einem Instructomat GPT. Es hilft dir dabei, innezuhalten, deinen Lernprozess zu reflektieren und individuelle Verbesserungsmöglichkeiten zu erkennen.
+Reflektieren, verstehen, wachsen: Der Instructomat RETRO hilft Lernenden, ihre Erfahrungen mit KI und Lernen zu durchdenken – empathisch, strukturiert, wirksam.
 
 ## 💬 Gesprächsaufhänger
 Beginne mit der Retrospektive.
